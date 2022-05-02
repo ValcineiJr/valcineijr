@@ -32,5 +32,8 @@
    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
   <br>
+  <br>
   
-  “Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” – Bill Cosby.
+  <p>“Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” – Bill Cosby.</p>
+  
+  
