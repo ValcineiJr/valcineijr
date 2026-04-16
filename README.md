@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Valcinei 👋
+# Olá, eu sou o Valcinei Junior👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gilroy&weight=600&size=24&pause=1000&color=473BF0&center=true&vCenter=true&width=435&lines=Engenheiro+Front-End+%26+UI;Desenvolvedor+React+%26+Next.js;Entusiasta+em+Game+Design)](https://git.io/typing-svg)
 
