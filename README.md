@@ -12,7 +12,6 @@ Transformando lógicas complexas em interfaces pixel-perfect e experiências flu
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de TI no Centro Universitário São José (UniSãoJosé).
-- 💻 Atualmente atuando como Gerente Técnico de TI na **Nave do Conhecimento**, gerenciando infraestrutura e redes.
 - 🎨 Foco absoluto no ecossistema Front-End e Mobile: **React, React Native, Next.js, TypeScript e Tailwind CSS**.
 - 🎮 Nas horas vagas, aplico conceitos de arquitetura desenvolvendo jogos focados em geração procedural com Unity e C# (como o projeto *Vafucatron*).
 
